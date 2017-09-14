@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E5CCFF"
+    android:background="#F9F9FF"
     tools:context="com.example.android.mylifebalance.MainActivity">
 
     <TextView
@@ -30,7 +30,7 @@
         android:layout_marginTop="115dp"
         android:textColor="#f2c01b"
         android:text="Start Quiz"
-        android:textSize="16dp"
+        android:textSize="20dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
